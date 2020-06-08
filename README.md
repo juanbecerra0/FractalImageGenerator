@@ -6,7 +6,7 @@ The course that I'm following can be found here: https://www.udemy.com/course/le
 # Overview
 ![output sample](outputSample.bmp)
 
-This program, given a target resolution, color range definitions, zoom operations, and an output file path, generates a fractal image using an Mandelbrot set generation algorithm. Above is an output given the following arguments:
+This program, given a target resolution, color range definitions, zoom operations, and an output file path, generates a fractal image using a computation-limited Mandelbrot set generation algorithm. Above is what the program outputs to "test.bmp" given the following arguments:
 
 ```
 // Create a fractal object, passing in resolution
